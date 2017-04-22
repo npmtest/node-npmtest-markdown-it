@@ -1,4 +1,7 @@
-# test coverage for  [markdown-it (v8.3.1)](https://github.com/markdown-it/markdown-it#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-markdown-it.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-markdown-it) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-markdown-it.svg)](https://travis-ci.org/npmtest/node-npmtest-markdown-it)
+# npmtest-markdown-it
+
+#### basic test coverage for  [markdown-it (v8.3.1)](https://github.com/markdown-it/markdown-it#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-markdown-it.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-markdown-it) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-markdown-it.svg)](https://travis-ci.org/npmtest/node-npmtest-markdown-it)
+
 #### Markdown-it - modern pluggable markdown parser.
 
 [![NPM](https://nodei.co/npm/markdown-it.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/markdown-it)
